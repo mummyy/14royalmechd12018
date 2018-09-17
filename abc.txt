@@ -1,0 +1,18 @@
+type value for a:30
+type value for b:20
+type value for c:10
+a is largest of b&c:
+dl114@soetcse:~/Rahulroy$ python3 abc.py
+type value for a:40
+type value for b:50
+type value for c:60
+c is largest number:
+dl114@soetcse:~/Rahulroy$ python3 abc.py
+type value for a:45
+type value for b:89
+type value for c:67
+b is largest of a&c:
+
+
+
+

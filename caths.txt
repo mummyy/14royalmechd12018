@@ -1,0 +1,9 @@
+type positive or negative in terminal
+dl114@soetcse:~/Rahulroy$ python caths.py
+type a no:1
+positive!
+dl114@soetcse:~/Rahulroy$ python caths.py
+type a no:-4
+negative!
+dl114@soetcse:~/Rahulroy$ 6
+

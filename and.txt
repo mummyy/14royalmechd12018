@@ -1,0 +1,11 @@
+type to check a is greater than b
+dl114@soetcse:~/Rahulroy$ python3 and.py
+type a number:96
+type a number:85
+A is greater!
+dl114@soetcse:~/Rahulroy$ python3 and.py
+type a number:54
+type a number:62
+b is greater!
+dl114@soetcse:~/Rahulroy$ gedit add.txt
+

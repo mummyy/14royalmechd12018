@@ -1,0 +1,25 @@
+type the marks in the terminal
+Enter your marks:90
+your grade is:
+A+
+dl114@soetcse:~/Rahulroy$ python3 marks.py
+Enter your marks:80
+your grade is:
+A
+dl114@soetcse:~/Rahulroy$ 
+dl114@soetcse:~/Rahulroy$ python3 marks.py
+Enter your marks:70
+your grade is:
+B+
+dl114@soetcse:~/Rahulroy$ python3 marks.py
+Enter your marks:60
+your grade is:
+B
+dl114@soetcse:~/Rahulroy$ python3 marks.py
+Enter your marks:40
+your grade is:
+C
+dl114@soetcse:~/Rahulroy$ python3 marks.py
+Enter your marks:30
+your grade is:
+fail
