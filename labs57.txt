@@ -1,0 +1,46 @@
+Your choice r/p/s:r
+you choose: r computer choose: s
+i won!
+Your choice r/p/s:r
+you choose: r computer choose: r
+draw!
+Your choice r/p/s:p
+you choose: p computer choose: r
+i won!
+Your choice r/p/s:s
+you choose: s computer choose: s
+draw!
+Your choice r/p/s:r
+you choose: r computer choose: r
+draw!
+Your choice r/p/s:p
+you choose: p computer choose: p
+draw!
+Your choice r/p/s:s
+you choose: s computer choose: s
+draw!
+Your choice r/p/s:p
+you choose: p computer choose: r
+i won!
+Your choice r/p/s:s
+you choose: s computer choose: p
+i won!
+Your choice r/p/s:r
+you choose: r computer choose: r
+draw!
+Your choice r/p/s:p
+you choose: p computer choose: s
+i loose!
+Your choice r/p/s:s
+you choose: s computer choose: r
+i loose!
+Your choice r/p/s:r
+you choose: r computer choose: p
+i loose!
+Your choice r/p/s:s
+you choose: s computer choose: s
+draw!
+Your choice r/p/s:p
+you choose: p computer choose: r
+i won!
+
