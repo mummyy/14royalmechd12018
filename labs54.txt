@@ -1,0 +1,15 @@
+dl114@soetcse:~/Rahulroy$ python3 labs54.py
+1
+dl114@soetcse:~/Rahulroy$ python3 labs54.py
+3
+dl114@soetcse:~/Rahulroy$ python3 labs54.py
+6
+dl114@soetcse:~/Rahulroy$ python3 labs54.py
+2
+dl114@soetcse:~/Rahulroy$ python3 labs54.py
+2
+dl114@soetcse:~/Rahulroy$ python3 labs54.py
+1
+dl114@soetcse:~/Rahulroy$ gedit labs54.txt
+
+

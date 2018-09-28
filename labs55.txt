@@ -1,0 +1,21 @@
+dl114@soetcse:~/Rahulroy$ python3 labs55.py
+press r to roll the die:r
+5
+press r to roll the die:r
+1
+press r to roll the die:r
+1
+press r to roll the die:r
+2
+press r to roll the die:r
+3
+press r to roll the die:r
+5
+press r to roll the die:r
+4
+press r to roll the die:
+dl114@soetcse:~/Rahulroy$ gedit labs55.txt
+
+
+
+
