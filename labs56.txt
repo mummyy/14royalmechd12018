@@ -1,0 +1,86 @@
+dl114@soetcse:~/Rahulroy$ python3 labs56.py
+press r to roll the dicer
+u got 6
+new positon is 6
+press r to roll the dicer
+u got 3
+new positon is 9
+press r to roll the dicer
+u got 4
+new positon is 13
+i got the ladder
+press r to roll the dicer
+u got 3
+new positon is 37
+press r to roll the dicer
+u got 2
+new positon is 39
+press r to roll the dicer
+u got 4
+new positon is 43
+press r to roll the dicer
+u got 5
+new positon is 48
+press r to roll the dicer
+u got 6
+new positon is 54
+press r to roll the dicer
+u got 3
+new positon is 57
+press r to roll the dicer
+u got 2
+new positon is 59
+press r to roll the dicer
+u got 5
+new positon is 64
+press r to roll the dicer
+u got 5
+new positon is 69
+press r to roll the dicer
+u got 3
+new positon is 72
+press r to roll the dicer
+u got 1
+new positon is 73
+press r to roll the dicer
+u got 1
+new positon is 74
+press r to roll the dicer
+u got 6
+new positon is 80
+press r to roll the dicer
+u got 3
+new positon is 83
+press r to roll the dicer
+u got 3
+new positon is 86
+press r to roll the dicer
+u got 6
+new positon is 92
+press r to roll the dicer
+u got 4
+new positon is 96
+press r to roll the dicer
+u got 1
+new positon is 97
+press r to roll the dicer
+u got 6
+new positon is 103
+more than hundred
+press r to roll the dicer
+u got 4
+new positon is 101
+more than hundred
+press r to roll the dicer
+u got 4
+new positon is 101
+more than hundred
+press r to roll the dicer
+u got 4
+new positon is 101
+more than hundred
+press r to roll the dicer
+u got 3
+new positon is 100
+i won the game
+
