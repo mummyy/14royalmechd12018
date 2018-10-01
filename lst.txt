@@ -1,0 +1,6 @@
+dl114@soetcse:~/Rahulroy$ python3 lst.py
+1
+2
+3
+4
+
