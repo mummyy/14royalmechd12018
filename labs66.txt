@@ -1,0 +1,18 @@
+pi@raspberrypi:~ $ python3 labs66.py
+Distance: 10.663694858551025
+Distance: 0.0
+Distance: 7.6888267993927
+Distance: 9.372675776481628
+Distance: 7.377836465835571
+Distance: 0.0
+Distance: 0.0
+Distance: 55.68171155452728
+Distance: 57.16709959506988
+Distance: 0.0
+Distance: 0.0
+Distance: 4.4520721435546875
+Distance: 0.0
+Distance: 100.0
+Distance: 13.139341592788695
+Distance: 13.039088129997253
+
