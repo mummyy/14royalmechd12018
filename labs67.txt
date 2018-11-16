@@ -1,0 +1,3 @@
+dl114@soetcse:~/Rahulroy$ python3 labs67.py
+The audio file contains:it's funny
+
